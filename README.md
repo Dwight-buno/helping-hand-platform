@@ -2,7 +2,7 @@
 ### A Web-Based Community Platform Connecting People Through Skills and Shared Resources
 
 **Group 1 Members:**
-- Buño, Dwigth Christian
+- Buño, Dwight Christian A.
 - Gonzales, Patricia Rose L.
 - Gutierrez, Andrei G.
 - Tenorio, Jhon Rhey A.
